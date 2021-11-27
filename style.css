@@ -1,0 +1,11 @@
+body{
+    color:white;
+    text-align: center;
+}
+#head{
+    font-size: 15px;
+}
+#bottom{
+    color:red;
+    text-align: unset;
+}
